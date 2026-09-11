@@ -1,0 +1,12 @@
+title: AI比較
+description: サブスク・AIツールを比較して、あなたに合う1本を見つけるブログ
+theme: minima
+lang: ja
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+header_pages:
+  - about.md
+
+show_excerpts: true
