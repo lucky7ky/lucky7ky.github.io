@@ -34,6 +34,8 @@ Gemini AdvancedはGoogleのサービス（Gmail・カレンダー・スプレッ
 - [Claude Pro 公式サイト](https://claude.ai/)
 - [Gemini Advanced 公式サイト](https://gemini.google.com/)
 
+もっと具体的に「自分に合うのはどれ？」を知りたい方は、[AIツール診断]({{ "/shindan/" | relative_url }})でも簡単にチェックできます。
+
 ## まとめ
 
 「文章の質ならClaude」「機能の広さならChatGPT」「Google連携ならGemini」というのが大まかな住み分けです。まずは無料プランで試してみて、自分の用途に一番ハマるものに課金するのがおすすめです。

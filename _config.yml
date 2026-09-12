@@ -7,6 +7,7 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
+  - shindan.md
   - about.md
 
 show_excerpts: true
