@@ -5,6 +5,8 @@ date: 2026-09-12
 categories: [AI比較]
 ---
 
+<p style="font-size:0.85em;color:#666;border:1px solid #ddd;padding:0.4em 0.8em;border-radius:6px;">※本ページはプロモーション（広告）を含みます。</p>
+
 「いきなり課金するのは不安」という人向けに、まず無料で試せるAIツールをまとめました。無料プランの範囲や条件は変わることがあるので、最新情報は必ず公式サイトでご確認ください。
 
 ## 汎用チャットAI

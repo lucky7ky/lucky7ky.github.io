@@ -4,6 +4,8 @@ title: AIツール診断
 permalink: /shindan/
 ---
 
+<p style="font-size:0.85em;color:#666;border:1px solid #ddd;padding:0.4em 0.8em;border-radius:6px;">※本ページはプロモーション（広告）を含みます。</p>
+
 <p>やりたいことを選ぶだけで、あなたに合いそうなAIツールを診断します。</p>
 
 <div id="shindan-app">
@@ -41,22 +43,22 @@ permalink: /shindan/
     write: {
       name: "Value AI Writer",
       reason: "AIでSEO記事を高速生成できるツールです。文章作成・ブログ運営の効率化に向いています。",
-      url: "https://www.value-press.com/"
+      url: "https://px.a8.net/svt/ejp?a8mat=4BC9F3+F75DPU+1JUK+1HNDBM"
     },
     image: {
       name: "ConoHa AI Canvas",
       reason: "ブラウザだけで、インストール不要で本格的なAI画像生成ができます。",
-      url: "https://ai.conoha.jp/"
+      url: "https://px.a8.net/svt/ejp?a8mat=4BC9F3+FA4JQQ+50+7RU5R6"
     },
     memo: {
       name: "Notta Brain",
       reason: "会議の議事録や資料作成を自動で整理・要約してくれるAIエージェントです。",
-      url: "https://notta.ai/"
+      url: "https://px.a8.net/svt/ejp?a8mat=4BC9F3+F8C8XE+5988+HVFKY"
     },
     chat: {
       name: "ChatGPT / Claude / Gemini の比較記事",
       reason: "用途に応じた選び方は、こちらの比較記事で詳しく解説しています。",
-      url: "/2026/09/11/chatgpt-claude-gemini-hikaku.html"
+      url: "{% post_url 2026-09-11-chatgpt-claude-gemini-hikaku %}"
     }
   };
 
@@ -70,7 +72,7 @@ permalink: /shindan/
     }
     var rec = recommendations[checked.value];
     resultEl.innerHTML =
-      "<p>おすすめは <a href=\"" + rec.url + "\" target=\"_blank\" rel=\"noopener\">" + rec.name + "</a> です。</p>" +
+      "<p>おすすめは <a href=\"" + rec.url + "\" target=\"_blank\" rel=\"nofollow sponsored noopener\">" + rec.name + "</a> です。</p>" +
       "<p>" + rec.reason + "</p>";
     resultEl.classList.add("show");
   });

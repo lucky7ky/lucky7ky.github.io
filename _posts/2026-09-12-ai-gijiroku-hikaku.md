@@ -5,6 +5,8 @@ date: 2026-09-12
 categories: [AI比較]
 ---
 
+<p style="font-size:0.85em;color:#666;border:1px solid #ddd;padding:0.4em 0.8em;border-radius:6px;">※本ページはプロモーション（広告）を含みます。</p>
+
 会議の議事録や取材の文字起こしをAIに任せたい人向けに、ツール選びで見るべきポイントを整理しました。
 
 ## 比較すべき4つのポイント
@@ -30,6 +32,6 @@ categories: [AI比較]
 
 詳細・料金は公式サイトでご確認ください。
 
-[Notta 公式サイト](https://notta.ai/)
+<a href="https://px.a8.net/svt/ejp?a8mat=4BC9F3+F8C8XE+5988+HVFKY" rel="nofollow sponsored">Notta Brain 公式サイトを見る</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC9F3+F8C8XE+5988+HVFKY" alt="">
 
 もっと自分に合うAIツールを知りたい方は、[AIツール診断](/shindan/)もあわせてどうぞ。
