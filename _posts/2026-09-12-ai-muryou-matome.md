@@ -15,25 +15,25 @@ categories: [AI比較]
 - **Claude**：無料プランあり
 - **Gemini**：無料プランあり
 
-詳しい使い分けは[ChatGPT・Claude・Gemini比較記事](/2026/09/11/chatgpt-claude-gemini-hikaku.html)で紹介しています。
+詳しい使い分けは[ChatGPT・Claude・Gemini比較記事]({% post_url 2026-09-11-chatgpt-claude-gemini-hikaku %})で紹介しています。
 
 ## 議事録・文字起こし
 
 - **Notta**：無料プランあり（利用時間に制限あり）
 
-詳しくは[AI議事録・文字起こしツールの選び方](/2026/09/12/ai-gijiroku-hikaku.html)へ。
+詳しくは[AI議事録・文字起こしツールの選び方]({% post_url 2026-09-12-ai-gijiroku-hikaku %})へ。
 
 ## 画像生成
 
 - **ConoHa AI Canvas**：初回利用時の無料枠あり
 
-詳しくは[AI画像生成ツールの選び方](/2026/09/12/ai-gazou-seisei-hikaku.html)へ。
+詳しくは[AI画像生成ツールの選び方]({% post_url 2026-09-12-ai-gazou-seisei-hikaku %})へ。
 
 ## 記事作成
 
 - **Value AI Writer**：無料お試し期間あり
 
-詳しくは[AI記事作成ツールの選び方](/2026/09/12/ai-kijisakusei-hikaku.html)へ。
+詳しくは[AI記事作成ツールの選び方]({% post_url 2026-09-12-ai-kijisakusei-hikaku %})へ。
 
 ## まずは無料で触ってみるのがおすすめ
 

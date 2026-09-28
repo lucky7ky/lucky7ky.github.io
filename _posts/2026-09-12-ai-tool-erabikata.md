@@ -33,7 +33,7 @@ AIツールが多すぎて、何を基準に選べばいいかわからない人
 
 具体的な用途別のおすすめは、[AIツール診断](/shindan/)で簡単にチェックできます。個別の比較記事もあわせてどうぞ。
 
-- [ChatGPT・Claude・Gemini比較](/2026/09/11/chatgpt-claude-gemini-hikaku.html)
-- [AI議事録・文字起こしツールの選び方](/2026/09/12/ai-gijiroku-hikaku.html)
-- [AI画像生成ツールの選び方](/2026/09/12/ai-gazou-seisei-hikaku.html)
-- [AI記事作成ツールの選び方](/2026/09/12/ai-kijisakusei-hikaku.html)
+- [ChatGPT・Claude・Gemini比較]({% post_url 2026-09-11-chatgpt-claude-gemini-hikaku %})
+- [AI議事録・文字起こしツールの選び方]({% post_url 2026-09-12-ai-gijiroku-hikaku %})
+- [AI画像生成ツールの選び方]({% post_url 2026-09-12-ai-gazou-seisei-hikaku %})
+- [AI記事作成ツールの選び方]({% post_url 2026-09-12-ai-kijisakusei-hikaku %})
