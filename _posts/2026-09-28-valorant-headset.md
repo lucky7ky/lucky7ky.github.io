@@ -11,6 +11,18 @@ VALORANTでは、敵の足音やスキルの音から「どこに何人いるか
 
 ※本記事はRiot Gamesとは関係のない、個人による解説記事です。
 
+<div style="background:#f4f7fb;border:1px solid #dbe6f5;border-radius:8px;padding:0.8em 1.2em;margin:1em 0;">
+<p style="margin:0 0 0.4em;"><strong>この記事を書いた人の環境</strong></p>
+<ul style="margin:0;">
+<li>ランク：イモータル1（イニシエーター専）</li>
+<li>ヘッドセット：Logicool G PRO シリーズ</li>
+</ul>
+</div>
+
+筆者はLogicoolの**G PRO シリーズ**のヘッドセットを使っています。イニシエーターは味方に敵の位置を伝える役割が多いので、足音の聞き取りやすさに加えて、**マイクで報告がしっかり届くか**も重視しています。
+
+<a href="https://rpx.a8.net/svt/ejp?a8mat=4BC9F3+D44RHU+2HOM+6F1WJ&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa26091257248_4BC9F3_D44RHU_2HOM_6F1WJ%3Fpc%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FLogicool%252520G%252520PRO%252520%2525E3%252583%252598%2525E3%252583%252583%2525E3%252583%252589%2525E3%252582%2525BB%2525E3%252583%252583%2525E3%252583%252588%252F%26m%3Dhttps%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FLogicool%252520G%252520PRO%252520%2525E3%252583%252598%2525E3%252583%252583%2525E3%252583%252589%2525E3%252582%2525BB%2525E3%252583%252583%2525E3%252583%252588%252F" rel="nofollow sponsored">楽天市場で「Logicool G PRO ヘッドセット」を探す</a>
+
 ## ヘッドセットとイヤホン、どっちがいい？
 
 | | ヘッドセット | イヤホン |

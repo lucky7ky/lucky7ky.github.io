@@ -105,7 +105,8 @@ permalink: /shindan/
       articles: [
         ["VALORANT向けゲーミングモニターの選び方", "{% post_url 2026-09-28-valorant-monitor %}"],
         ["足音を聞き取りやすいヘッドセット・イヤホンの選び方", "{% post_url 2026-09-28-valorant-headset %}"],
-        ["VALORANTを快適に遊ぶためのPC選び", "{% post_url 2026-09-28-valorant-pc %}"]
+        ["VALORANTを快適に遊ぶためのPC選び", "{% post_url 2026-09-28-valorant-pc %}"],
+        ["イモータルのイニシエーター専が解説｜ソーヴァ・スカイ・フェイド", "{% post_url 2026-09-28-valorant-initiator %}"]
       ]
     }
   };
