@@ -106,7 +106,8 @@ permalink: /shindan/
         ["VALORANT向けゲーミングモニターの選び方", "{% post_url 2026-09-28-valorant-monitor %}"],
         ["足音を聞き取りやすいヘッドセット・イヤホンの選び方", "{% post_url 2026-09-28-valorant-headset %}"],
         ["VALORANTを快適に遊ぶためのPC選び", "{% post_url 2026-09-28-valorant-pc %}"],
-        ["イモータルのイニシエーター専が解説｜ソーヴァ・スカイ・フェイド", "{% post_url 2026-09-28-valorant-initiator %}"]
+        ["イモータルのイニシエーター専が解説｜ソーヴァ・スカイ・フェイド", "{% post_url 2026-09-28-valorant-initiator %}"],
+        ["感度は低すぎ？プロ646人の統計と比較（計算ツール付き）", "{% post_url 2026-09-29-valorant-kando-hikaku %}"]
       ]
     }
   };
