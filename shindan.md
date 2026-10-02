@@ -101,13 +101,13 @@ permalink: /shindan/
     valo: {
       name: "VALORANT向けゲーミングマウスの選び方",
       reason: "エイムの安定感はマウスで大きく変わります。まずはマウスから見直すのがおすすめです。",
-      url: "{% post_url 2026-09-28-valorant-mouse %}",
+      url: "https://lucky7ky.github.io/game/valorant/valorant-mouse/",
       articles: [
-        ["VALORANT向けゲーミングモニターの選び方", "{% post_url 2026-09-28-valorant-monitor %}"],
-        ["足音を聞き取りやすいヘッドセット・イヤホンの選び方", "{% post_url 2026-09-28-valorant-headset %}"],
-        ["VALORANTを快適に遊ぶためのPC選び", "{% post_url 2026-09-28-valorant-pc %}"],
-        ["イモータルのイニシエーター専が解説｜ソーヴァ・スカイ・フェイド", "{% post_url 2026-09-28-valorant-initiator %}"],
-        ["感度は低すぎ？プロ646人の統計と比較（計算ツール付き）", "{% post_url 2026-09-29-valorant-kando-hikaku %}"]
+        ["VALORANT向けゲーミングモニターの選び方", "https://lucky7ky.github.io/game/valorant/valorant-monitor/"],
+        ["足音を聞き取りやすいヘッドセット・イヤホンの選び方", "https://lucky7ky.github.io/game/valorant/valorant-headset/"],
+        ["VALORANTを快適に遊ぶためのPC選び", "https://lucky7ky.github.io/game/valorant/valorant-pc/"],
+        ["イモータルのイニシエーター専が解説｜ソーヴァ・スカイ・フェイド", "https://lucky7ky.github.io/game/valorant/valorant-initiator/"],
+        ["感度は低すぎ？プロ646人の統計と比較（計算ツール付き）", "https://lucky7ky.github.io/game/valorant/valorant-kando-hikaku/"]
       ]
     }
   };
