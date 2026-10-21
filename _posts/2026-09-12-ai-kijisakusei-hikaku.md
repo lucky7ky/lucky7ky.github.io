@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "AI記事作成ツールの選び方｜ブログ・SEO記事を効率化するValue AI Writer"
+description: "ブログやSEO記事をAIで作りたい人向けに、AI記事作成ツールの選び方を3つのポイントで解説。SEOを意識した記事を生成でき、WordPress連携にも対応したValue AI Writerの特徴も紹介します。"
+excerpt: "ブログやSEO記事をAIで作りたい人向けに、AI記事作成ツールの選び方を3つのポイントで解説。SEOを意識した記事を生成でき、WordPress連携にも対応したValue AI Writerの特徴も紹介します。"
 date: 2026-09-12
 categories: [AI比較]
 ---

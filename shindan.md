@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AIツール診断
+description: "文章作成・画像生成・議事録などのやりたいことを選ぶだけで、自分に合うAIツールやガジェットと、参考になる記事がわかる無料の診断ツールです。VALORANT向けのデバイス選びにも対応しています。"
 permalink: /shindan/
 ---
 

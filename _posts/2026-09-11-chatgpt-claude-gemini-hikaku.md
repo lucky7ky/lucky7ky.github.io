@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "ChatGPT Plus・Claude Pro・Gemini Advanced どれに課金すべき？用途別の選び方"
+description: "ChatGPT Plus・Claude Pro・Gemini Advancedのどれに課金すべきかを、文章作成・資料作成・Google連携などの用途別に整理。月額料金が同じくらいの3つのAIの違いと選び方を初心者向けに解説します。"
+excerpt: "ChatGPT Plus・Claude Pro・Gemini Advancedのどれに課金すべきかを、文章作成・資料作成・Google連携などの用途別に整理。月額料金が同じくらいの3つのAIの違いと選び方を初心者向けに解説します。"
 date: 2026-09-11
 categories: [AI比較]
 ---
